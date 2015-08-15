@@ -1,3 +1,3 @@
 # CPU Benchmark #
 
-A simple console and windows forms cpu benchmark.
+A simple Console, Windows Forms, ASP.NET CPU benchmarks.
